@@ -47,3 +47,5 @@ project:x:1000:1000:Project:/home/project:/bin/bash
 user2:x:1001:1001::/home/user2:/bin/bash
 nikitha:x:1002:1002::/home/nikitha:/bin/bash
 apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+
+Here all user account info is present.
